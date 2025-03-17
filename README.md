@@ -1,4 +1,4 @@
-<h1 align="center">meet Henry Inda</h1>
+<h1 align="center">Hi, I'm Henry Inda</h1>
 <h3 align="center">A passionate Computer Forensics And Security major from Kabarak University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henry-inda&label=Profile%20views&color=0e75b6&style=flat" alt="henry-inda" /> </p>
