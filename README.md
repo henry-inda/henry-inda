@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **full stack web dev**
+- 🌱 I’m currently learning **web dev and cyber security**
 
 - 💬 Ask me about **python, php, javascript e.t.c**
 
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henry-inda&show_icons=true&locale=en" alt="henry-inda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henry-inda&" alt="henry-inda" /></p>
+//<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henry-inda&" alt="henry-inda" /></p>//
